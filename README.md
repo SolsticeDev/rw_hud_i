@@ -1,5 +1,8 @@
 # rw_hud_i!
-:red_circle: DISCONTINUED :red_circle:
+Welcome to my QB edit and bug fix for rw_hud
+Completly fixed to work perfectly in qbcore
+Added stress system from base qb-hud and added a stress indicator
+ESX version will come at a later time
 
 [Screenshot_1](https://user-images.githubusercontent.com/61204500/205486627-b03fa788-4e5a-45ea-8ebf-b9b635282e97.png)
 ![Screenshot_2](https://user-images.githubusercontent.com/61204500/205486630-36caad3e-78ee-41b5-aa5f-0d564eaae9b4.png)
